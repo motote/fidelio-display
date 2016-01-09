@@ -1,5 +1,6 @@
 # fidelio-display
 Arduino library for the Philips Fidelio AS111 display
+The display is based on the PT6964 Led Driver IC
 
 Used in a project to revive an old Fidelio AS111 clock feature, therefore only the numbers are supported.
 
